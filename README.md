@@ -1,7 +1,7 @@
 # Red_Wine_Quality_Prediction_Project
 
-This project demonstrates a regression analysis to predict the quality of red wine based on chemical attributes.
-It utilizes Decision Tree Regression and Adaptive Boosting Regression techniques, implements K-Fold Cross Validation for robust evaluation, and showcases various performance metrics.
+This project demonstrates a regression analysis to predict the quality of red wine.
+Here 'quality' is the Output column. It utilizes Decision Tree Regression and Adaptive Boosting Regression techniques, implements K-Fold Cross Validation for robust evaluation, and showcases various performance metrics.
 
 ## Features
 
@@ -12,7 +12,7 @@ It utilizes Decision Tree Regression and Adaptive Boosting Regression techniques
 
 ## Setup and Usage
 
-1. Download the 'red_wine.csv' dataset.
+1. Download the 'RedWineQuality.csv' dataset.
 2. Open the project in a Jupyter Notebook or Google Colab environment.
 3. Run the code cells to perform wine quality prediction and analysis.
 
