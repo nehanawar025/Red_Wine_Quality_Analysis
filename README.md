@@ -14,7 +14,6 @@ Here 'quality' is the Output column. It utilizes Decision Tree Regression and Ad
 
 1. Download the 'RedWineQuality.csv' dataset.
 2. Open the project in a Jupyter Notebook or Google Colab environment.
-3. Run the code cells to perform wine quality prediction and analysis.
 
 ## Requirements
 
@@ -26,5 +25,6 @@ Here 'quality' is the Output column. It utilizes Decision Tree Regression and Ad
 
 ## Results
 
-The project showcases the effectiveness of Decision Tree Regression and Adaptive Boosting Regression for predicting wine quality based on chemical attributes. Key metrics such as MAE, R2, Explained Variance, and Max Error are used to evaluate and compare the models.
+- Key metrics such as MAE, R2, Explained Variance, and Max Error are used to evaluate and compare between Decision Tree Regression and Adaptive Boosting Regression.
+- <strong>Adaptive Boosting Regression</strong> is the more accurate model. 
 
