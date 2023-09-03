@@ -3,6 +3,8 @@
 This project demonstrates a regression analysis to predict the quality of red wine.
 Here 'quality' is the Output column. It utilizes Decision Tree Regression and Adaptive Boosting Regression techniques, implements K-Fold Cross Validation for robust evaluation, and showcases various performance metrics.
 
+![Model](https://github.com/nehanawar025/Red_Wine_Quality_Prediction_Project/blob/main/wine-quality.jpeg)
+
 ## Features
 
 - Predicts red wine quality using Decision Tree Regression and Adaptive Boosting Regression.
